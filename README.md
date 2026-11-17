@@ -1,4 +1,4 @@
-# 🎓 Oufouq — Plateforme ERP SaaS Scolaire Multi-Tenant
+#  Oufouq — Plateforme ERP SaaS Scolaire Multi-Tenant
 
 [![Next.js](https://img.shields.io/badge/Frontend-Next.js%2016%20%7C%20React%2019-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript)](https://www.typescriptlang.org/)
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Table des Matières
+##  Table des Matières
 
 - [Aperçu & Proposition de Valeur](#-aperçu--proposition-de-valeur)
 - [Architecture du Système](#-architecture-du-système)
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌟 Aperçu & Proposition de Valeur
+##  Aperçu & Proposition de Valeur
 
 Le secteur éducatif souffre historiquement d'une **fragmentation des outils** (tableurs Excel isolés, registres papier, messageries informelles), d'une **lourdeur administrative** récurrente et d'un **angle mort décisionnel** pour les directions.
 
@@ -40,7 +40,7 @@ Le secteur éducatif souffre historiquement d'une **fragmentation des outils** (
 
 ---
 
-## 🏗️ Architecture du Système
+##  Architecture du Système
 
 Oufouq repose sur une **Architecture 3-Tiers Découplée (API-First)**. Le backend est structuré sous la forme d'un **Monolithe Modulaire** guidé par les principes du **Domain-Driven Design (DDD)**.
 
@@ -84,7 +84,7 @@ flowchart LR
 
 ---
 
-## 🛡️ Gouvernance, Sécurité & Conformité
+##  Gouvernance, Sécurité & Conformité
 
 En tant que projet conçu dans les règles de l'art de la **Gouvernance des SI**, Oufouq intègre la sécurité et la conformité dès sa phase de conception (**Security & Privacy by Design**).
 
@@ -117,7 +117,7 @@ Pour éliminer tout risque de fuite de données inter-écoles sur une base mutua
 
 ---
 
-## 📦 Périmètre Fonctionnel (16 Modules)
+##  Périmètre Fonctionnel (16 Modules)
 
 L'ERP s'articule autour de **5 grands pôles métiers** :
 
@@ -131,7 +131,7 @@ L'ERP s'articule autour de **5 grands pôles métiers** :
 
 ---
 
-## 💻 Stack Technologique
+##  Stack Technologique
 
 ### Frontend
 - **Framework :** [Next.js 16](https://nextjs.org/) (App Router, Server & Client Components) + [React 19](https://react.dev/)
@@ -160,7 +160,7 @@ L'ERP s'articule autour de **5 grands pôles métiers** :
 
 ---
 
-## 🧪 Qualité Logicielle & Tests
+##  Qualité Logicielle & Tests
 
 Le projet intègre une démarche de test rigoureuse pour garantir la haute disponibilité et le zéro régression en production :
 
@@ -185,7 +185,7 @@ Taux de Couverture de Code Globale (Coverage) : 71 % (> 90 % sur le cœur métie
 
 
 
-## 👥 Auteurs & Contexte
+##  Auteurs & Contexte
 
 Projet réalisé en binôme dans le cadre d'un projet de fin d'année d'ingénierie à l'**ENSIASD (École Nationale Supérieure de l'Intelligence Artificielle et Sciences des Données - Taroudant)** :
 - **Chaimaa El Khoudri** — *Lead Gouvernance des SI, Co-conception & Full-Stack Development*
